@@ -1,0 +1,102 @@
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\Model\CSDL_book_room.mdf
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\Model\CSDL_book_room_log.ldf
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\Dat_Phong.exe.config
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\Dat_Phong.exe
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\Dat_Phong.pdb
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\Calendar.DayView.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\Calendar.DayView.pdb
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.csprojResolveAssemblyReference.cache
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.View.Book_room_info.resources
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.Form1.resources
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.Properties.Resources.resources
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.View.LoginForm.resources
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.csproj.GenerateResource.Cache
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.exe.licenses
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.exe
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.pdb
+C:\Users\dodac\onedrive\documents\visual studio 2015\Projects\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.View.Account_Info.resources
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\Model\CSDL_book_room.mdf
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\Model\CSDL_book_room_log.ldf
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\Dat_Phong.exe.config
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\Dat_Phong.exe
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\Dat_Phong.pdb
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\Calendar.DayView.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\Calendar.DayView.pdb
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.View.Account_Info.resources
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.View.Book_room_info.resources
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.Form1.resources
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.Properties.Resources.resources
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.View.LoginForm.resources
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.exe.licenses
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.exe
+C:\Users\Admin\Desktop\Dat_Phong\Dat_Phong\obj\Debug\Dat_Phong.pdb

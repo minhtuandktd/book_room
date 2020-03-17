@@ -1,0 +1,43 @@
+C:\Users\TTAC-HOANG\Desktop\calendar_src\DayView\bin\Debug\Calendar.DayView.dll
+C:\Users\TTAC-HOANG\Desktop\calendar_src\DayView\bin\Debug\Calendar.DayView.pdb
+C:\Users\TTAC-HOANG\Desktop\calendar_src\DayView\obj\Debug\DayView.csprojResolveAssemblyReference.cache
+C:\Users\TTAC-HOANG\Desktop\calendar_src\DayView\obj\Debug\Calendar.DayView.dll
+C:\Users\TTAC-HOANG\Desktop\calendar_src\DayView\obj\Debug\Calendar.DayView.pdb
+G:\KSTN2017_Baitaplon-20171225T042031Z-001\KSTN2017_Baitaplon\calendar_src\DayView\obj\Debug\DayView.csprojResolveAssemblyReference.cache
+G:\KSTN2017_Baitaplon-20171225T042031Z-001\KSTN2017_Baitaplon\calendar_src\DayView\obj\Debug\DayView.csproj.CoreCompileInputs.cache
+G:\KSTN2017_Baitaplon-20171225T042031Z-001\KSTN2017_Baitaplon\calendar_src\DayView\obj\Debug\Calendar.DayView.dll
+G:\KSTN2017_Baitaplon-20171225T042031Z-001\KSTN2017_Baitaplon\calendar_src\DayView\obj\Debug\Calendar.DayView.pdb
+G:\KSTN2017_Baitaplon-20171225T042031Z-001\KSTN2017_Baitaplon\calendar_src\DayView\bin\Debug\Calendar.DayView.dll
+G:\KSTN2017_Baitaplon-20171225T042031Z-001\KSTN2017_Baitaplon\calendar_src\DayView\bin\Debug\Calendar.DayView.pdb
+G:\KSTN2017_Baitaplon-20171225T042031Z-001\KSTN2017_Baitaplon\calendar_src\DayView\obj\Debug\Calendar.DayView.resources
+G:\KSTN2017_Baitaplon-20171225T042031Z-001\KSTN2017_Baitaplon\calendar_src\DayView\obj\Debug\DayView.csproj.GenerateResource.Cache
+C:\Users\dodac\source\repos\DayView\bin\Debug\Calendar.DayView.dll
+C:\Users\dodac\source\repos\DayView\bin\Debug\Calendar.DayView.pdb
+C:\Users\dodac\source\repos\DayView\obj\Debug\Calendar.DayView.resources
+C:\Users\dodac\source\repos\DayView\obj\Debug\DayView.csproj.GenerateResource.Cache
+C:\Users\dodac\source\repos\DayView\obj\Debug\DayView.csproj.CoreCompileInputs.cache
+C:\Users\dodac\source\repos\DayView\obj\Debug\Calendar.DayView.dll
+C:\Users\dodac\source\repos\DayView\obj\Debug\Calendar.DayView.pdb
+C:\Users\dodac\source\repos\DayView\obj\Debug\DayView.csprojResolveAssemblyReference.cache
+C:\Users\tuanctob48\Downloads\backup\backup\DayView\bin\Debug\Calendar.DayView.dll
+C:\Users\tuanctob48\Downloads\backup\backup\DayView\bin\Debug\Calendar.DayView.pdb
+C:\Users\tuanctob48\Downloads\backup\backup\DayView\obj\Debug\DayView.csprojResolveAssemblyReference.cache
+C:\Users\tuanctob48\Downloads\backup\backup\DayView\obj\Debug\Calendar.DayView.resources
+C:\Users\tuanctob48\Downloads\backup\backup\DayView\obj\Debug\DayView.csproj.GenerateResource.Cache
+C:\Users\tuanctob48\Downloads\backup\backup\DayView\obj\Debug\Calendar.DayView.dll
+C:\Users\tuanctob48\Downloads\backup\backup\DayView\obj\Debug\Calendar.DayView.pdb
+D:\backup\DayView\bin\Debug\Calendar.DayView.dll
+D:\backup\DayView\bin\Debug\Calendar.DayView.pdb
+D:\backup\DayView\obj\Debug\DayView.csprojResolveAssemblyReference.cache
+D:\backup\DayView\obj\Debug\Calendar.DayView.resources
+D:\backup\DayView\obj\Debug\DayView.csproj.GenerateResource.Cache
+D:\backup\DayView\obj\Debug\DayView.csproj.CoreCompileInputs.cache
+D:\backup\DayView\obj\Debug\Calendar.DayView.dll
+D:\backup\DayView\obj\Debug\Calendar.DayView.pdb
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\DayView\bin\Debug\Calendar.DayView.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\DayView\bin\Debug\Calendar.DayView.pdb
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\DayView\obj\Debug\DayView.csprojResolveAssemblyReference.cache
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\DayView\obj\Debug\Calendar.DayView.resources
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\DayView\obj\Debug\DayView.csproj.GenerateResource.Cache
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\DayView\obj\Debug\Calendar.DayView.dll
+C:\Users\dodac\OneDrive\Documents\Visual Studio 2015\Projects\Dat_Phong\DayView\obj\Debug\Calendar.DayView.pdb
